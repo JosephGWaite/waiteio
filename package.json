@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joseph Waite",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
